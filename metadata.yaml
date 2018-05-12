@@ -1,5 +1,5 @@
 _repo: Iranian-Influence-on-Moslem-Literature-Part-I_12918
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Nariman, G. K. (Gushtaspshah Kaikhushro)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '7141'
     url: http://www.gutenberg.org/2009/agents/7141
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Inostrantzev, Konstantin Aleksandrovich
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '4713'
     url: http://www.gutenberg.org/2009/agents/4713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12918#Iranian-Influence-on-Moslem-Literature-Part-I
 gutenberg_issued: '2004-07-16'
 gutenberg_type: Text
 identifiers:
